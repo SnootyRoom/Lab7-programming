@@ -13,6 +13,6 @@ double Geometry::area(double a, double b)
 
 double Geometry::area(double a, double b, double c)
 {
-    double s = (a + b + c) / 2;
-    return sqrt(s * (s - a) * (s - b) * (s - c));
+    double p = (a + b + c) / 2;
+    return sqrt(p * (p - a) * (p - b) * (p - c));
 }
