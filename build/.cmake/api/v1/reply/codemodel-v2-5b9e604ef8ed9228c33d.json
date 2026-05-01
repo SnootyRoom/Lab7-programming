@@ -44,15 +44,8 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Debug-f9de1212538a80bb85d2.json",
+					"jsonFile" : "target-ALL_BUILD-Debug-a36e91944465b6489d41.json",
 					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "Lab7-programming::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Lab7-programming-Debug-699e0ffb6aa6f0e99d3e.json",
-					"name" : "Lab7-programming",
 					"projectIndex" : 0
 				},
 				{
@@ -60,6 +53,13 @@
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-ZERO_CHECK-Debug-ed849f77a9d5ddd56d61.json",
 					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "geometry_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-geometry_app-Debug-09e58591ad7c7338eff1.json",
+					"name" : "geometry_app",
 					"projectIndex" : 0
 				}
 			]
@@ -107,15 +107,8 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Release-f9de1212538a80bb85d2.json",
+					"jsonFile" : "target-ALL_BUILD-Release-a36e91944465b6489d41.json",
 					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "Lab7-programming::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Lab7-programming-Release-1748d4c28aad7b003554.json",
-					"name" : "Lab7-programming",
 					"projectIndex" : 0
 				},
 				{
@@ -123,6 +116,13 @@
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-ZERO_CHECK-Release-ed849f77a9d5ddd56d61.json",
 					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "geometry_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-geometry_app-Release-4c43a751a961e01c7db0.json",
+					"name" : "geometry_app",
 					"projectIndex" : 0
 				}
 			]
@@ -170,15 +170,8 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-f9de1212538a80bb85d2.json",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-a36e91944465b6489d41.json",
 					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "Lab7-programming::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Lab7-programming-MinSizeRel-d0f955b3c35b78b2ca89.json",
-					"name" : "Lab7-programming",
 					"projectIndex" : 0
 				},
 				{
@@ -186,6 +179,13 @@
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-ed849f77a9d5ddd56d61.json",
 					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "geometry_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-geometry_app-MinSizeRel-260b148649566644b313.json",
+					"name" : "geometry_app",
 					"projectIndex" : 0
 				}
 			]
@@ -233,15 +233,8 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-f9de1212538a80bb85d2.json",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-a36e91944465b6489d41.json",
 					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "Lab7-programming::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Lab7-programming-RelWithDebInfo-7dac8db419c35ceb6fa5.json",
-					"name" : "Lab7-programming",
 					"projectIndex" : 0
 				},
 				{
@@ -249,6 +242,13 @@
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-ed849f77a9d5ddd56d61.json",
 					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "geometry_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-geometry_app-RelWithDebInfo-aa5fd6ca1aaf07a8104f.json",
+					"name" : "geometry_app",
 					"projectIndex" : 0
 				}
 			]

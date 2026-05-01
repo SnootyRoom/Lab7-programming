@@ -8,15 +8,15 @@
 		<Platform Name="x64"/>
 	</Configurations>
 	<Project Path="ALL_BUILD.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="b50e1676-1306-35d7-8402-b34b5b1a488c" DefaultStartup="true">
-		<BuildDependency Project="Lab7-programming.vcxproj"/>
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="geometry_app.vcxproj"/>
 		<Build Solution="Debug|*" Project="false"/>
 		<Build Solution="Release|*" Project="false"/>
 		<Build Solution="MinSizeRel|*" Project="false"/>
 		<Build Solution="RelWithDebInfo|*" Project="false"/>
 	</Project>
-	<Project Path="Lab7-programming.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="d9b601eb-b1bb-3f95-bbcf-b1aa569d587a">
+	<Project Path="ZERO_CHECK.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="4e76574c-7871-3ca7-b5f9-5b68dec8ab12"/>
+	<Project Path="geometry_app.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="01902620-f156-31f1-a7dc-142bed0423ac">
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
 	</Project>
-	<Project Path="ZERO_CHECK.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="4e76574c-7871-3ca7-b5f9-5b68dec8ab12"/>
 </Solution>
