@@ -12,10 +12,10 @@ private:
 public:
     Fraction(int numerator, unsigned int denominator);
 
-    Fraction operator+(const Fraction &other);
-    Fraction operator-(const Fraction &other);
-    Fraction operator*(const Fraction &other);
-    Fraction operator/(const Fraction &other);
+    Fraction operator+(const Fraction &other) const;
+    Fraction operator-(const Fraction &other) const;
+    Fraction operator*(const Fraction &other) const;
+    Fraction operator/(const Fraction &other) const;
 
     void print() const;
 };

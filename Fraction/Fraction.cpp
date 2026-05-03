@@ -15,28 +15,28 @@ Fraction::Fraction(int numerator, unsigned int denominator) : numerator(numerato
        
 }
 
-Fraction Fraction::operator+(const Fraction &other)
+Fraction Fraction::operator+(const Fraction &other) const
 {
     int newNumerator = this->numerator * other.denominator + other.numerator * this->denominator;
     unsigned int newDenominator = this->denominator * other.denominator;
     return Fraction(newNumerator, newDenominator);
 }
 
-Fraction Fraction::operator-(const Fraction &other)
+Fraction Fraction::operator-(const Fraction &other) const
 {
     int newNumerator = this->numerator * other.denominator - other.numerator * this->denominator;
     unsigned int newDenominator = this->denominator * other.denominator;
     return Fraction(newNumerator, newDenominator);
 }
 
-Fraction Fraction::operator*(const Fraction &other)
+Fraction Fraction::operator*(const Fraction &other) const
 {
     int newNumerator = this->numerator * other.numerator;
     unsigned int newDenominator = this->denominator * other.denominator;
     return Fraction(newNumerator, newDenominator);
 }
 
-Fraction Fraction::operator/(const Fraction &other)
+Fraction Fraction::operator/(const Fraction &other) const
 {
     int newNumerator = this->numerator * other.denominator;
     unsigned int newDenominator = this->denominator * other.numerator;

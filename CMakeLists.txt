@@ -20,3 +20,9 @@ add_executable(fraction_app
     Fraction/Fraction.cpp
     Fraction/main.cpp
 )
+
+add_executable(vector_3d_app
+    Vector3D/Vector3D.h
+    Vector3D/Vector3D.cpp
+    Vector3D/main.cpp
+)
