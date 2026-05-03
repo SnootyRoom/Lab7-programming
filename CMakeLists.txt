@@ -20,3 +20,9 @@ add_executable(fraction_app
     Fraction/Fraction.cpp
     Fraction/main.cpp
 )
+
+add_executable(complex_app
+    Complex/Complex.h
+    Complex/Complex.cpp
+    Complex/main.cpp
+)
