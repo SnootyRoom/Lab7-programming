@@ -22,16 +22,19 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "geometry_app::@6890427a1f51a3e7e1df"
-		},
-		{
 			"id" : "fraction_app::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "vector_3d_app::@6890427a1f51a3e7e1df"
+			"id" : "geometry_app::@6890427a1f51a3e7e1df"
 		},
 		{
 			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "complex_app::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "vector_3d_app::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
@@ -40,10 +43,13 @@
 	"orderDependencies" : 
 	[
 		{
+			"id" : "fraction_app::@6890427a1f51a3e7e1df"
+		},
+		{
 			"id" : "geometry_app::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "fraction_app::@6890427a1f51a3e7e1df"
+			"id" : "complex_app::@6890427a1f51a3e7e1df"
 		},
 		{
 			"id" : "vector_3d_app::@6890427a1f51a3e7e1df"

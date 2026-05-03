@@ -21,6 +21,12 @@ add_executable(fraction_app
     Fraction/main.cpp
 )
 
+add_executable(complex_app
+    Complex/Complex.h
+    Complex/Complex.cpp
+    Complex/main.cpp
+)
+
 add_executable(vector_3d_app
     Vector3D/Vector3D.h
     Vector3D/Vector3D.cpp

@@ -9,6 +9,7 @@
 	</Configurations>
 	<Project Path="ALL_BUILD.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="b50e1676-1306-35d7-8402-b34b5b1a488c" DefaultStartup="true">
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="complex_app.vcxproj"/>
 		<BuildDependency Project="fraction_app.vcxproj"/>
 		<BuildDependency Project="geometry_app.vcxproj"/>
 		<BuildDependency Project="vector_3d_app.vcxproj"/>
@@ -18,6 +19,9 @@
 		<Build Solution="RelWithDebInfo|*" Project="false"/>
 	</Project>
 	<Project Path="ZERO_CHECK.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="4e76574c-7871-3ca7-b5f9-5b68dec8ab12"/>
+	<Project Path="complex_app.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="25234767-bd56-3075-a5bd-17e966636633">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
 	<Project Path="fraction_app.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="aa42807d-1e99-3600-bde0-6b961097fca4">
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
 	</Project>

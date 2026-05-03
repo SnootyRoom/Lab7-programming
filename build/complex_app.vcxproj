@@ -22,11 +22,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{D3639B6F-B2E4-3F25-BBC4-B0233959355B}</ProjectGuid>
+    <ProjectGuid>{25234767-BD56-3075-A5BD-17E966636633}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
-    <ProjectName>vector_3d_app</ProjectName>
+    <ProjectName>complex_app</ProjectName>
     <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -60,26 +60,26 @@
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
     <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Visual Studio Code\Lab7-programming\build\Debug\</OutDir>
-    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">vector_3d_app.dir\Debug\</IntDir>
-    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">vector_3d_app</TargetName>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">complex_app.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">complex_app</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
     <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Visual Studio Code\Lab7-programming\build\Release\</OutDir>
-    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">vector_3d_app.dir\Release\</IntDir>
-    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">vector_3d_app</TargetName>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">complex_app.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">complex_app</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
     <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Visual Studio Code\Lab7-programming\build\MinSizeRel\</OutDir>
-    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">vector_3d_app.dir\MinSizeRel\</IntDir>
-    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">vector_3d_app</TargetName>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">complex_app.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">complex_app</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</GenerateManifest>
     <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Visual Studio Code\Lab7-programming\build\RelWithDebInfo\</OutDir>
-    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">vector_3d_app.dir\RelWithDebInfo\</IntDir>
-    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">vector_3d_app</TargetName>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">complex_app.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">complex_app</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</GenerateManifest>
@@ -130,9 +130,9 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
       <ImageHasSafeExceptionHandlers></ImageHasSafeExceptionHandlers>
-      <ImportLibrary>C:/Visual Studio Code/Lab7-programming/build/Debug/vector_3d_app.lib</ImportLibrary>
+      <ImportLibrary>C:/Visual Studio Code/Lab7-programming/build/Debug/complex_app.lib</ImportLibrary>
       <LinkErrorReporting></LinkErrorReporting>
-      <ProgramDataBaseFile>C:/Visual Studio Code/Lab7-programming/build/Debug/vector_3d_app.pdb</ProgramDataBaseFile>
+      <ProgramDataBaseFile>C:/Visual Studio Code/Lab7-programming/build/Debug/complex_app.pdb</ProgramDataBaseFile>
       <RandomizedBaseAddress></RandomizedBaseAddress>
       <SubSystem>Console</SubSystem>
     </Link>
@@ -187,9 +187,9 @@
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
       <ImageHasSafeExceptionHandlers></ImageHasSafeExceptionHandlers>
-      <ImportLibrary>C:/Visual Studio Code/Lab7-programming/build/Release/vector_3d_app.lib</ImportLibrary>
+      <ImportLibrary>C:/Visual Studio Code/Lab7-programming/build/Release/complex_app.lib</ImportLibrary>
       <LinkErrorReporting></LinkErrorReporting>
-      <ProgramDataBaseFile>C:/Visual Studio Code/Lab7-programming/build/Release/vector_3d_app.pdb</ProgramDataBaseFile>
+      <ProgramDataBaseFile>C:/Visual Studio Code/Lab7-programming/build/Release/complex_app.pdb</ProgramDataBaseFile>
       <RandomizedBaseAddress></RandomizedBaseAddress>
       <SubSystem>Console</SubSystem>
     </Link>
@@ -244,9 +244,9 @@
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
       <ImageHasSafeExceptionHandlers></ImageHasSafeExceptionHandlers>
-      <ImportLibrary>C:/Visual Studio Code/Lab7-programming/build/MinSizeRel/vector_3d_app.lib</ImportLibrary>
+      <ImportLibrary>C:/Visual Studio Code/Lab7-programming/build/MinSizeRel/complex_app.lib</ImportLibrary>
       <LinkErrorReporting></LinkErrorReporting>
-      <ProgramDataBaseFile>C:/Visual Studio Code/Lab7-programming/build/MinSizeRel/vector_3d_app.pdb</ProgramDataBaseFile>
+      <ProgramDataBaseFile>C:/Visual Studio Code/Lab7-programming/build/MinSizeRel/complex_app.pdb</ProgramDataBaseFile>
       <RandomizedBaseAddress></RandomizedBaseAddress>
       <SubSystem>Console</SubSystem>
     </Link>
@@ -300,9 +300,9 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
       <ImageHasSafeExceptionHandlers></ImageHasSafeExceptionHandlers>
-      <ImportLibrary>C:/Visual Studio Code/Lab7-programming/build/RelWithDebInfo/vector_3d_app.lib</ImportLibrary>
+      <ImportLibrary>C:/Visual Studio Code/Lab7-programming/build/RelWithDebInfo/complex_app.lib</ImportLibrary>
       <LinkErrorReporting></LinkErrorReporting>
-      <ProgramDataBaseFile>C:/Visual Studio Code/Lab7-programming/build/RelWithDebInfo/vector_3d_app.pdb</ProgramDataBaseFile>
+      <ProgramDataBaseFile>C:/Visual Studio Code/Lab7-programming/build/RelWithDebInfo/complex_app.pdb</ProgramDataBaseFile>
       <RandomizedBaseAddress></RandomizedBaseAddress>
       <SubSystem>Console</SubSystem>
     </Link>
@@ -368,9 +368,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Visual Studio Code\Lab7-programming\Vector3D\Vector3D.h" />
-    <ClCompile Include="C:\Visual Studio Code\Lab7-programming\Vector3D\Vector3D.cpp" />
-    <ClCompile Include="C:\Visual Studio Code\Lab7-programming\Vector3D\main.cpp" />
+    <ClInclude Include="C:\Visual Studio Code\Lab7-programming\Complex\Complex.h" />
+    <ClCompile Include="C:\Visual Studio Code\Lab7-programming\Complex\Complex.cpp" />
+    <ClCompile Include="C:\Visual Studio Code\Lab7-programming\Complex\main.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

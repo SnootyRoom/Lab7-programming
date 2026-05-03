@@ -1,5 +1,6 @@
 C:/Visual Studio Code/Lab7-programming/build/CMakeFiles/geometry_app.dir
 C:/Visual Studio Code/Lab7-programming/build/CMakeFiles/fraction_app.dir
+C:/Visual Studio Code/Lab7-programming/build/CMakeFiles/complex_app.dir
 C:/Visual Studio Code/Lab7-programming/build/CMakeFiles/vector_3d_app.dir
 C:/Visual Studio Code/Lab7-programming/build/CMakeFiles/ALL_BUILD.dir
 C:/Visual Studio Code/Lab7-programming/build/CMakeFiles/ZERO_CHECK.dir
